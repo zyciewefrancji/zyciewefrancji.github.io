@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Życie We Francji</title>
+    <link href="https://zyciewefrancji.pl/feed.xml" rel="self" />
+    <link href="https://zyciewefrancji.pl" />
+    <updated>2022-02-05T20:32:31+01:00</updated>
+    <author>
+        <name>K</name>
+    </author>
+    <id>https://zyciewefrancji.pl</id>
+
+    <entry>
+        <title>Marsylia</title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://zyciewefrancji.pl/marsylia.html"/>
+        <id>https://zyciewefrancji.pl/marsylia.html</id>
+
+        <updated>2022-02-05T20:32:31+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://zyciewefrancji.pl/media/posts/2/Marseille.jpg" alt="" />
+                     Jeśli wybierasz się właśnie na wypad do Francji. Niech nie przyciągnie Cię urok śródziemnomorskiego portu o łagodnym o tej porze klimacie. Od 4 miesięcy miasto to jest pogrążone w chaosie strajków śmieciarzy. Tysiące ton niezebranych śmieci porozrzucanych przez "współpracujący" ze strajkującymi prowansalski mistral (wiejący&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://zyciewefrancji.pl/media/posts/2/Marseille.jpg" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://zyciewefrancji.pl/media/posts/2/Marseille-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://zyciewefrancji.pl/media/posts/2/responsive/Marseille-2-xs.jpg 300w ,https://zyciewefrancji.pl/media/posts/2/responsive/Marseille-2-sm.jpg 480w ,https://zyciewefrancji.pl/media/posts/2/responsive/Marseille-2-md.jpg 768w ,https://zyciewefrancji.pl/media/posts/2/responsive/Marseille-2-lg.jpg 1024w ,https://zyciewefrancji.pl/media/posts/2/responsive/Marseille-2-xl.jpg 1360w ,https://zyciewefrancji.pl/media/posts/2/responsive/Marseille-2-2xl.jpg 1600w"  alt="" width="664" height="443"></figure>
+<p>Jeśli wybierasz się właśnie na wypad do Francji.</p>
+<p>Niech nie przyciągnie Cię urok śródziemnomorskiego portu o łagodnym o tej porze klimacie. </p>
+<p>Od 4 miesięcy miasto to jest pogrążone w chaosie strajków śmieciarzy.</p>
+<p>Tysiące ton niezebranych śmieci porozrzucanych przez "współpracujący" ze strajkującymi prowansalski mistral (wiejący z prędkością 100 km na godz.) skutecznie uprzykrza przemieszczanie się (o zapachu nie wspominając) po mieście...</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

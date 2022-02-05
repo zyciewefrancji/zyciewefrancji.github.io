@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zyciewefrancji.pl/sitemap.xml
