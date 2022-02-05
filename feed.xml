@@ -3,7 +3,7 @@
     <title>Życie We Francji</title>
     <link href="https://zyciewefrancji.pl/feed.xml" rel="self" />
     <link href="https://zyciewefrancji.pl" />
-    <updated>2022-02-05T23:29:47+01:00</updated>
+    <updated>2022-02-05T23:31:33+01:00</updated>
     <author>
         <name>K</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://zyciewefrancji.pl/marsylia.html"/>
         <id>https://zyciewefrancji.pl/marsylia.html</id>
+            <category term="turystyka"/>
 
-        <updated>2022-02-05T23:29:47+01:00</updated>
+        <updated>2022-02-05T23:31:33+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://zyciewefrancji.pl/media/posts/2/Marseille.jpg" alt="" />
