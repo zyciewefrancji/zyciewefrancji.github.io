@@ -3,12 +3,34 @@
     <title>Życie We Francji</title>
     <link href="https://zyciewefrancji.pl/feed.xml" rel="self" />
     <link href="https://zyciewefrancji.pl" />
-    <updated>2022-02-07T13:54:02+01:00</updated>
+    <updated>2022-02-07T14:58:52+01:00</updated>
     <author>
         <name>K</name>
     </author>
     <id>https://zyciewefrancji.pl</id>
 
+    <entry>
+        <title>Canal du Midi</title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://zyciewefrancji.pl/canal-du-midi-2.html"/>
+        <id>https://zyciewefrancji.pl/canal-du-midi-2.html</id>
+
+        <updated>2022-02-07T14:58:52+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Rzadkość, wystarczy mieć: tylko dobre chęci i można zostać kapitanem statku! Statek lub barkę można wypożyczyć bez żadnych uprawnień. Wystarczy zabrać rowery na pokład i zwiedzanie uroczych południowych miasteczek francuskich wydaje się miłą perspektywą po leniwie spędzonym pikniku nad kanałem w wybranym przez siebie&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_du_Midi_aug_2011.jpg" data-is-external-image="true"  alt="Canal_du_Midi_aug_2011.jpg (1944×2592)"></p>
+<p>Rzadkość, wystarczy mieć: tylko dobre chęci i można zostać kapitanem statku! Statek lub barkę można wypożyczyć bez żadnych uprawnień.</p>
+<p>Wystarczy zabrać rowery na pokład i zwiedzanie uroczych południowych miasteczek francuskich wydaje się miłą perspektywą po leniwie spędzonym pikniku nad kanałem w wybranym przez siebie miejscu. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Zagrożenia telepracy</title>
         <author>
