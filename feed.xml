@@ -3,31 +3,59 @@
     <title>Życie We Francji</title>
     <link href="https://zyciewefrancji.pl/feed.xml" rel="self" />
     <link href="https://zyciewefrancji.pl" />
-    <updated>2022-02-07T15:01:33+01:00</updated>
+    <updated>2022-02-07T15:36:04+01:00</updated>
     <author>
         <name>K</name>
     </author>
     <id>https://zyciewefrancji.pl</id>
 
     <entry>
-        <title>Canal du Midi</title>
+        <title>Galette des Rois/ Tort Królewski</title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://zyciewefrancji.pl/galette-des-rois.html"/>
+        <id>https://zyciewefrancji.pl/galette-des-rois.html</id>
+
+        <updated>2022-02-07T15:36:04+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Dzisiaj święto Trzech Króli! Na pamiątkę tego religijnego wydarzenia kupujemy w cukierni lub co ambitniejsi pieką własnoręcznie (galette de Rois) czyli tort królewski. W torcie schowana jest figurka tradycyjnie o charakterze religijnym, ale fantazja jest tutaj dozwolona i figurki zainspirowane popularnymi filmami animowanymi, znanymi&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Galette_des_rois_exemple.jpg" data-is-external-image="true"  alt="Galette_des_rois_exemple.jpg (3072×2048)"></p>
+<p>Dzisiaj święto Trzech Króli!</p>
+<p>Na pamiątkę tego religijnego wydarzenia kupujemy w cukierni lub co ambitniejsi pieką własnoręcznie (galette de Rois) czyli tort królewski.</p>
+<p>W torcie schowana jest figurka tradycyjnie o charakterze religijnym, ale fantazja jest tutaj dozwolona i figurki zainspirowane popularnymi filmami animowanymi, znanymi komiksami i książkami też można napotkać.</p>
+<p>Najczęściej najmłodsi przedstawiciele rodziny chowają się pod stołem i decydują dla kogo krojone są cząstki tortu. </p>
+<p>Uważna konsumpcja, zalecana jest przez francuskich dentystów :) do momentu znalezienia figurki. Osoba, która miała szczęście znaleźć w swojej porcji tortu figurkę ogłoszona zostaje królem/królową wieczoru i otrzymuje papierową złotą koronę dołączoną do zakupionego ciasta.</p>
+<p>Ta sympatyczna tradycja jest kultywowana zarówno w rodzinie, w pracy jak i przeróżnych stowarzyszeniach, gdzie jest kolejnym powodem do spotkania się i miłego spędzenia wolnego czasu.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Canal du Midi/ Kanał Południowy</title>
         <author>
             <name>K</name>
         </author>
         <link href="https://zyciewefrancji.pl/canal-du-midi-2.html"/>
         <id>https://zyciewefrancji.pl/canal-du-midi-2.html</id>
+            <category term="turystyka"/>
 
-        <updated>2022-02-07T15:01:33+01:00</updated>
+        <updated>2022-02-07T15:21:24+01:00</updated>
             <summary>
                 <![CDATA[
-                     Rzadkość, wystarczy mieć: tylko dobre chęci i można zostać kapitanem statku! Statek lub barkę można wypożyczyć bez żadnych uprawnień. Wystarczy zabrać rowery na pokład i zwiedzanie uroczych południowych miasteczek francuskich wydaje się miłą perspektywą po leniwie spędzonym pikniku nad kanałem w wybranym przez siebie&hellip;
+                     Rzadkość, wystarczy mieć: tylko dobre chęci i można zostać kapitanem statku! Statek lub barkę można wypożyczyć bez żadnych uprawnień. Wystarczy zabrać rowery na pokład i zwiedzanie uroczych południowych miasteczek francuskich wydaje się miłą perspektywą po leniwie spędzonym pikniku nad Kanałem Południowym w wybranym przez&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_du_Midi_aug_2011.jpg" data-is-external-image="true"  alt="Canal_du_Midi_aug_2011.jpg (1944×2592)"></p>
+                <p><a href="https://zyciewefrancji.pl/canal-du-midi-2.html" target="_blank" rel="noopener noreferrer"></a><a href="https://pl.wikipedia.org/wiki/Kana%C5%82_Po%C5%82udniowy_(Francja)" title="Kanałem Południowym" target="_blank" rel="noopener noreferrer"></a><a href="https://pl.wikipedia.org/wiki/Kana%C5%82_Po%C5%82udniowy_(Francja)" target="_blank" rel="noopener noreferrer"></a><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_du_Midi_aug_2011.jpg" data-is-external-image="true"  alt="Canal_du_Midi_aug_2011.jpg (1944×2592)"></p>
 <p>Rzadkość, wystarczy mieć: tylko dobre chęci i można zostać kapitanem statku! Statek lub barkę można wypożyczyć bez żadnych uprawnień.</p>
-<p>Wystarczy zabrać rowery na pokład i zwiedzanie uroczych południowych miasteczek francuskich wydaje się miłą perspektywą po leniwie spędzonym pikniku nad kanałem w wybranym przez siebie miejscu. </p>
+<p>Wystarczy zabrać rowery na pokład i zwiedzanie uroczych południowych miasteczek francuskich wydaje się miłą perspektywą po leniwie spędzonym pikniku nad <a href="https://pl.wikipedia.org/wiki/Kana%C5%82_Po%C5%82udniowy_(Francja)">Kanałem Południowym</a> w wybranym przez siebie miejscu. </p>
             ]]>
         </content>
     </entry>
