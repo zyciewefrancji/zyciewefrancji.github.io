@@ -3,12 +3,33 @@
     <title>Życie We Francji</title>
     <link href="https://zyciewefrancji.pl/feed.xml" rel="self" />
     <link href="https://zyciewefrancji.pl" />
-    <updated>2022-02-08T19:36:55+01:00</updated>
+    <updated>2022-02-09T21:46:04+01:00</updated>
     <author>
         <name>K</name>
     </author>
     <id>https://zyciewefrancji.pl</id>
 
+    <entry>
+        <title>Wakacje z osiołkiem</title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://zyciewefrancji.pl/wycieczka-z-osiolkiem.html"/>
+        <id>https://zyciewefrancji.pl/wycieczka-z-osiolkiem.html</id>
+
+        <updated>2022-02-09T21:46:04+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Dla dużych i małych- wycieczki w towarzystwie osiołka proponowane są przez liczne biura podróży. Noclegi i posiłki na trasie zagwarantowane są dla wszystkich spacerowiczów :)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img loading="lazy" src="https://monedies.fr/UserFiles/diaporama-2-jours-Conques/J14-Apres-midi-15--diaporama.jpg" data-is-external-image="true" ></p>
+<p>Dla dużych i małych- wycieczki w towarzystwie osiołka proponowane są przez liczne biura podróży. Noclegi i posiłki na trasie zagwarantowane są dla wszystkich spacerowiczów :)</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rozmowa i rytuały przy posiłku  dziedzictwem UNESCO</title>
         <author>
