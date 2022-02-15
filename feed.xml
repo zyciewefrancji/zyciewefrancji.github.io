@@ -3,12 +3,32 @@
     <title>Życie We Francji</title>
     <link href="https://zyciewefrancji.pl/feed.xml" rel="self" />
     <link href="https://zyciewefrancji.pl" />
-    <updated>2022-02-14T22:15:16+01:00</updated>
+    <updated>2022-02-15T10:47:50+01:00</updated>
     <author>
         <name>K</name>
     </author>
     <id>https://zyciewefrancji.pl</id>
 
+    <entry>
+        <title>Francja pustynią medyczną</title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://zyciewefrancji.pl/francja-pustynia-medyczna.html"/>
+        <id>https://zyciewefrancji.pl/francja-pustynia-medyczna.html</id>
+
+        <updated>2022-02-15T10:47:50+01:00</updated>
+            <summary>
+                <![CDATA[
+                    W latach siedemdziesiątych została wprowadzona ograniczona liczba studentów medycyny (numerus clausus), które mogły przyjąć uczelnie. Miało to na celu ograniczyć nadmiar lekarzy w stosunku do ilości mieszkańców a w związku z tym wydatki państwa. Pomysł rozsądny w latach siedemdziesiątych, nie został dostosowany do zmian demograficznych,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>W latach siedemdziesiątych została wprowadzona ograniczona liczba studentów medycyny (<em>numerus clausus</em>), które mogły przyjąć uczelnie. Miało to na celu ograniczyć nadmiar lekarzy w stosunku do ilości mieszkańców a w związku z tym wydatki państwa. Pomysł rozsądny w latach siedemdziesiątych, nie został dostosowany do zmian demograficznych, które miały miejsce przez pół wieku. Przepis ten wreście został przegłosowany w grudniu 2021 . Francja będzie musiała jednak poczekać jeszcze minimum dobre 10 lat, aby efekty zmian  zaczęły być odczuwalne dla pacjentów.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Wino w puszcze</title>
         <author>
@@ -221,29 +241,6 @@
                 <p> </p>
 <p>Jak grzyby po deszczu powstają we Francji farmy ekologiczne, na których można zebrać w zależności od sezonu różne owoce, warzywa a nawet kwiaty.</p>
 <p>Miejsca te przyciągają w szczególności rodziny z dziećmi, które mają okazję wybiegać się i własnoręcznie pozbierać owoce i warzywa do swoich posiłków. Pozostaje jedynie podjechanie do kasy z ustawionymi do dyspozycji taczkami i zakupy zrobione!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Canal du Midi/ Kanał Południowy</title>
-        <author>
-            <name>K</name>
-        </author>
-        <link href="https://zyciewefrancji.pl/canal-du-midi-2.html"/>
-        <id>https://zyciewefrancji.pl/canal-du-midi-2.html</id>
-            <category term="turystyka"/>
-
-        <updated>2022-02-07T15:46:23+01:00</updated>
-            <summary>
-                <![CDATA[
-                     Rzadkość, wystarczy mieć: tylko dobre chęci i można zostać kapitanem statku! Statek lub barkę można wypożyczyć bez żadnych uprawnień. Wystarczy zabrać rowery na pokład i zwiedzanie uroczych południowych miasteczek francuskich wydaje się miłą perspektywą po leniwie spędzonym pikniku nad Kanałem Południowym w wybranym przez&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://zyciewefrancji.pl/canal-du-midi-2.html" target="_blank" rel="noopener noreferrer"></a><a href="https://pl.wikipedia.org/wiki/Kana%C5%82_Po%C5%82udniowy_(Francja)" title="Kanałem Południowym" target="_blank" rel="noopener noreferrer"></a><a href="https://pl.wikipedia.org/wiki/Kana%C5%82_Po%C5%82udniowy_(Francja)" target="_blank" rel="noopener noreferrer"></a><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_du_Midi_aug_2011.jpg" data-is-external-image="true"  alt="Canal_du_Midi_aug_2011.jpg (1944×2592)"></p>
-<p>Rzadkość, wystarczy mieć: tylko dobre chęci i można zostać kapitanem statku! Statek lub barkę można wypożyczyć bez żadnych uprawnień.</p>
-<p>Wystarczy zabrać rowery na pokład i zwiedzanie uroczych południowych miasteczek francuskich wydaje się miłą perspektywą po leniwie spędzonym pikniku nad <a href="https://pl.wikipedia.org/wiki/Kana%C5%82_Po%C5%82udniowy_(Francja)">Kanałem Południowym</a> w wybranym przez siebie miejscu. </p>
             ]]>
         </content>
     </entry>
