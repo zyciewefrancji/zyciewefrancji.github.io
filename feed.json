@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://zyciewefrancji.pl/jak-zostac-ksiezniczka.html",
+            "url": "https://zyciewefrancji.pl/jak-zostac-ksiezniczka.html",
+            "title": "Ach księżniczką być",
+            "summary": " Zostać księżniczką, chociażby na 8 kilometrów! Bieg księżniczek organizowany co roku w Ogrodach Wersalskich przyciąga wiele fantazyjnie ubranych dam.",
+            "content_html": "<p><img loading=\"lazy\" src=\"https://www.nordictrackrunning-chateaudeversailles.com/img/courses/princesse1.jpg\" data-is-external-image=\"true\" ></p>\n<p>Zostać księżniczką, chociażby na 8 kilometrów!  Bieg księżniczek organizowany co roku  w Ogrodach Wersalskich przyciąga wiele fantazyjnie ubranych dam.</p>",
+            "author": {
+                "name": "K"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-15T20:09:27+01:00",
+            "date_modified": "2022-02-15T20:09:27+01:00"
+        },
+        {
             "id": "https://zyciewefrancji.pl/francja-pustynia-medyczna.html",
             "url": "https://zyciewefrancji.pl/francja-pustynia-medyczna.html",
             "title": "Francja pustynią medyczną",
@@ -134,21 +148,6 @@
             ],
             "date_published": "2022-02-08T16:08:00+01:00",
             "date_modified": "2022-02-12T20:24:44+01:00"
-        },
-        {
-            "id": "https://zyciewefrancji.pl/farmy-gdzie-mozna-samemu-zebrac-sezonowe-owoce-i-warzywa.html",
-            "url": "https://zyciewefrancji.pl/farmy-gdzie-mozna-samemu-zebrac-sezonowe-owoce-i-warzywa.html",
-            "title": "Farmy gdzie można samemu zebrać sezonowe owoce i warzywa",
-            "summary": " Jak grzyby po deszczu powstają we Francji farmy ekologiczne, na których można zebrać w zależności od sezonu różne owoce, warzywa a nawet kwiaty. Miejsca te przyciągają w szczególności rodziny z dziećmi, które mają okazję wybiegać się i własnoręcznie pozbierać owoce i warzywa do swoich&hellip;",
-            "content_html": "<p> </p>\n<p>Jak grzyby po deszczu powstają we Francji farmy ekologiczne, na których można zebrać w zależności od sezonu różne owoce, warzywa a nawet kwiaty.</p>\n<p>Miejsca te przyciągają w szczególności rodziny z dziećmi, które mają okazję wybiegać się i własnoręcznie pozbierać owoce i warzywa do swoich posiłków. Pozostaje jedynie podjechanie do kasy z ustawionymi do dyspozycji taczkami i zakupy zrobione!</p>",
-            "image": "https://zyciewefrancji.pl/media/posts/9/ferme-de-gally-Recherche-Google-2.html",
-            "author": {
-                "name": "K"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-02-07T17:15:39+01:00",
-            "date_modified": "2022-02-07T18:00:59+01:00"
         }
     ]
 }

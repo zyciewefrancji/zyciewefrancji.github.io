@@ -3,12 +3,33 @@
     <title>Życie We Francji</title>
     <link href="https://zyciewefrancji.pl/feed.xml" rel="self" />
     <link href="https://zyciewefrancji.pl" />
-    <updated>2022-02-15T10:58:10+01:00</updated>
+    <updated>2022-02-15T20:09:27+01:00</updated>
     <author>
         <name>K</name>
     </author>
     <id>https://zyciewefrancji.pl</id>
 
+    <entry>
+        <title>Ach księżniczką być</title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://zyciewefrancji.pl/jak-zostac-ksiezniczka.html"/>
+        <id>https://zyciewefrancji.pl/jak-zostac-ksiezniczka.html</id>
+
+        <updated>2022-02-15T20:09:27+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Zostać księżniczką, chociażby na 8 kilometrów! Bieg księżniczek organizowany co roku w Ogrodach Wersalskich przyciąga wiele fantazyjnie ubranych dam.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img loading="lazy" src="https://www.nordictrackrunning-chateaudeversailles.com/img/courses/princesse1.jpg" data-is-external-image="true" ></p>
+<p>Zostać księżniczką, chociażby na 8 kilometrów!  Bieg księżniczek organizowany co roku  w Ogrodach Wersalskich przyciąga wiele fantazyjnie ubranych dam.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Francja pustynią medyczną</title>
         <author>
@@ -217,30 +238,6 @@
 </ul>
 <p> </p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Farmy gdzie można samemu zebrać sezonowe owoce i warzywa</title>
-        <author>
-            <name>K</name>
-        </author>
-        <link href="https://zyciewefrancji.pl/farmy-gdzie-mozna-samemu-zebrac-sezonowe-owoce-i-warzywa.html"/>
-        <id>https://zyciewefrancji.pl/farmy-gdzie-mozna-samemu-zebrac-sezonowe-owoce-i-warzywa.html</id>
-
-        <updated>2022-02-07T18:00:59+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://zyciewefrancji.pl/media/posts/9/ferme-de-gally-Recherche-Google-2.html" alt="" />
-                     Jak grzyby po deszczu powstają we Francji farmy ekologiczne, na których można zebrać w zależności od sezonu różne owoce, warzywa a nawet kwiaty. Miejsca te przyciągają w szczególności rodziny z dziećmi, które mają okazję wybiegać się i własnoręcznie pozbierać owoce i warzywa do swoich&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://zyciewefrancji.pl/media/posts/9/ferme-de-gally-Recherche-Google-2.html" alt="" />
-                <p> </p>
-<p>Jak grzyby po deszczu powstają we Francji farmy ekologiczne, na których można zebrać w zależności od sezonu różne owoce, warzywa a nawet kwiaty.</p>
-<p>Miejsca te przyciągają w szczególności rodziny z dziećmi, które mają okazję wybiegać się i własnoręcznie pozbierać owoce i warzywa do swoich posiłków. Pozostaje jedynie podjechanie do kasy z ustawionymi do dyspozycji taczkami i zakupy zrobione!</p>
             ]]>
         </content>
     </entry>
