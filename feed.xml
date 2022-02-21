@@ -3,12 +3,33 @@
     <title>Życie We Francji</title>
     <link href="https://zyciewefrancji.pl/feed.xml" rel="self" />
     <link href="https://zyciewefrancji.pl" />
-    <updated>2022-02-19T21:55:26+01:00</updated>
+    <updated>2022-02-21T16:03:00+01:00</updated>
     <author>
         <name>K</name>
     </author>
     <id>https://zyciewefrancji.pl</id>
 
+    <entry>
+        <title>Salon international de l&#x27;Agriculture/ Międzynarodowy Salon Rolniczy</title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://zyciewefrancji.pl/salon-international-de-lagriculture-miedzynarodowy-salon-rolniczy.html"/>
+        <id>https://zyciewefrancji.pl/salon-international-de-lagriculture-miedzynarodowy-salon-rolniczy.html</id>
+
+        <updated>2022-02-21T16:03:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Co roku odbywa się w Paryżu pod koniec lutego Salon Rolniczy, którego początki sięgają XIX wieku. Tradycyjnie otwierany jest on przez prezydenta Francji, który przy okazji ogląda i degustuje prezentowane produkty. Ekspozycje rolnicze przyciągają setki tysięcy obserwatorów (przeciętnie ponad 600 000), którzy grzecznie stoją&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img loading="lazy" src="https://acces-ce.fr/2056-large_default/salon-international-de-l-agriculture.jpg" data-is-external-image="true"  alt="12,00€ Tarif Billet entrée Salon International de l&amp;#39;Agriculture moins cher"></p>
+<p>Co roku odbywa się w Paryżu pod koniec lutego Salon Rolniczy, którego początki sięgają XIX wieku. Tradycyjnie otwierany jest on przez prezydenta Francji, który przy okazji ogląda i degustuje prezentowane produkty. Ekspozycje rolnicze przyciągają setki tysięcy obserwatorów (przeciętnie ponad 600 000), którzy grzecznie stoją w ogromnych kolejkach po bilet . W tym roku po dwóch latach przerwy (salon rolniczy został odwołany w 2021 roku ze względu na pandemię koronawirusa) oficjalne otwarcie  odbędzie się 26 lutego.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Vélomaritime/ Wzdłuż oceanu na rowerze</title>
         <author>
@@ -198,29 +219,6 @@
         <content type="html">
             <![CDATA[
                 <p>Francja wychodzi z piątej fali zachorowań na koronawirus. Po okresie abstynencji spotkań rodzinnych spowodowanych pandemią, restrykcji ilości osób które mogły się spotkać podczas świąt, wybuchła moda na huczne imprezy rodzinne. Wynajmowane są kluby, restauracje, lub po prostu organizowane w większych domach pozwalających pomieścić wszystkich zaproszonych. I takiego zakończenia pandemii wszystkim życzę!🤞</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Bieg epikurejski</title>
-        <author>
-            <name>K</name>
-        </author>
-        <link href="https://zyciewefrancji.pl/bieg-epikuryjski.html"/>
-        <id>https://zyciewefrancji.pl/bieg-epikuryjski.html</id>
-
-        <updated>2022-02-12T20:29:36+01:00</updated>
-            <summary>
-                <![CDATA[
-                     Co roku na południu Francji organizowane są biegi epikurejskie. Nazwa bierze się z pomysłu połączenia wysiłku z przyjemnością. Co kilka kilometrów rozstawione są stoły przy których możemy degustować lokalne wino, sery ,wędliny i potrawy przegryzając je francuską bagietką. Dystanse dostosowane są do możliwości każdego&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><img loading="lazy" src="https://scontent-cdt1-1.xx.fbcdn.net/v/t39.30808-6/241928934_4839836656046346_3818616098232474112_n.jpg?_nc_cat=105&amp;ccb=1-5&amp;_nc_sid=730e14&amp;_nc_ohc=o4vywC7pE9QAX9dastb&amp;_nc_ht=scontent-cdt1-1.xx&amp;oh=00_AT_r9hwOaMi-RCObJgm-UMZlWjIYysgg8fFGfm5wsdKV8A&amp;oe=620D914D" data-is-external-image="true"  alt="Peut être une image de aliment"></p>
-<p>Co roku na południu Francji organizowane są biegi epikurejskie. Nazwa bierze się z pomysłu połączenia wysiłku z przyjemnością. Co kilka kilometrów rozstawione są stoły przy których możemy degustować lokalne wino, sery ,wędliny i potrawy przegryzając je francuską bagietką.</p>
-<p>Dystanse dostosowane są do możliwości każdego i zaczynają się od 8 kilometrów a dla ambitnych biegaczy na maratonie kończąc.</p>
-<p>Dla tych co wolą po prostu maszerować również mają taką możliwość. Warunkiem zakończenia biegu jest dobiegnięcie do mety przed zachodem słońca, bo jej po prostu już wtedy nie będzie... :). Najważniejszy jest tutaj dobry humor i apetyt! </p>
             ]]>
         </content>
     </entry>
