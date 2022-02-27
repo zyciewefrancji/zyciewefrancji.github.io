@@ -3,12 +3,32 @@
     <title>Życie We Francji</title>
     <link href="https://zyciewefrancji.pl/feed.xml" rel="self" />
     <link href="https://zyciewefrancji.pl" />
-    <updated>2022-02-27T11:35:39+01:00</updated>
+    <updated>2022-02-27T13:37:18+01:00</updated>
     <author>
         <name>K</name>
     </author>
     <id>https://zyciewefrancji.pl</id>
 
+    <entry>
+        <title>Paryż miejscem atrakcyjnym dla kogo?</title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://zyciewefrancji.pl/paryz-miejscem-atrakcyjnym-dla-kogo.html"/>
+        <id>https://zyciewefrancji.pl/paryz-miejscem-atrakcyjnym-dla-kogo.html</id>
+
+        <updated>2022-02-27T13:37:18+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Paryż jest atrakcyjnym miejscem turystycznym, ale do życia codziennego jak pokazują badania atrakcyjny wydaje się tylko do 30 roku życia. W tym wieku młodzi ludzie mieszkający w Paryżu przenoszą się do jego przedmieść w poszukiwaniu bardziej wygodnego i tańszego mieszkania. Pobliże Paryża zapewnia zatrudnienie i&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Paryż jest atrakcyjnym miejscem turystycznym, ale do życia codziennego jak pokazują badania atrakcyjny wydaje się tylko do 30 roku życia. W tym wieku młodzi ludzie mieszkający w Paryżu przenoszą się do jego przedmieść w poszukiwaniu bardziej wygodnego i tańszego mieszkania. Pobliże Paryża zapewnia zatrudnienie i atrakcje kulturalne, natomiast małe miasteczka spokój i jakość życia na którą ze względu na ceny ciężko pozwolić sobie w Paryżu.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Raclette - danie na zimę</title>
         <author>
@@ -200,26 +220,6 @@
             <![CDATA[
                 <p><img loading="lazy" src="https://www.nordictrackrunning-chateaudeversailles.com/img/courses/princesse1.jpg" data-is-external-image="true" ></p>
 <p>Zostać księżniczką, chociażby na 8 kilometrów!  Bieg księżniczek organizowany co roku  w Ogrodach Wersalskich przyciąga wiele fantazyjnie ubranych dam.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Francja pustynią medyczną</title>
-        <author>
-            <name>K</name>
-        </author>
-        <link href="https://zyciewefrancji.pl/francja-pustynia-medyczna.html"/>
-        <id>https://zyciewefrancji.pl/francja-pustynia-medyczna.html</id>
-
-        <updated>2022-02-19T21:10:51+01:00</updated>
-            <summary>
-                <![CDATA[
-                    W latach siedemdziesiątych została wprowadzona ograniczona liczba studentów medycyny (numerus clausus), które mogły przyjąć uczelnie. Miało to na celu ograniczyć nadmiar lekarzy w stosunku do ilości mieszkańców a w związku z tym wydatki państwa. Pomysł rozsądny w latach siedemdziesiątych, nie został dostosowany do zmian demograficznych,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>W latach siedemdziesiątych została wprowadzona ograniczona liczba studentów medycyny (<em>numerus clausus</em>), które mogły przyjąć uczelnie. Miało to na celu ograniczyć nadmiar lekarzy w stosunku do ilości mieszkańców a w związku z tym wydatki państwa. Pomysł rozsądny w latach siedemdziesiątych, nie został dostosowany do zmian demograficznych, które miały miejsce przez pół wieku. Przepis ten wreszcie został przegłosowany w grudniu 2021 . Francja będzie musiała jednak poczekać jeszcze minimum dobre 10 lat, aby efekty zmian  zaczęły być odczuwalne dla pacjentów.</p>
             ]]>
         </content>
     </entry>
