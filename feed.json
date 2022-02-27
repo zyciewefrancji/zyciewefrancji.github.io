@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://zyciewefrancji.pl/raclette.html",
+            "url": "https://zyciewefrancji.pl/raclette.html",
+            "title": "Raclette - danie na zimę",
+            "summary": " Gdy zima nadchodzi aparaty do przygotowania raclette masowo lądują na francuskich stołach. Na moim, muszę przyznać również :). Bardzo podoba mi się sposób jej przygotowania i podawania. Gotujemy ziemniaki najlepiej na parze i właściwie tyle samotnego przebywania w kuchni. Reszta odbywa się przy stole&hellip;",
+            "content_html": "<p><img loading=\"lazy\" src=\"https://www.manigod.com/medias/images/prestataires/raclette-party-13162.jpg\" data-is-external-image=\"true\"  alt=\"Raclette party - © M. Sauvage\"></p>\n<p>Gdy zima nadchodzi aparaty do przygotowania <a href=\"https://pl.wikipedia.org/wiki/Raclette\">raclette </a>masowo lądują na francuskich stołach. Na moim, muszę przyznać również :). Bardzo podoba mi się sposób jej przygotowania i podawania. Gotujemy ziemniaki najlepiej na parze i właściwie tyle samotnego przebywania w kuchni. Reszta odbywa się przy stole wokół emanującego przyjemne ciepło aparatu do raclette. Podajemy pikle, wędliny i oczywiście sery do raclette i każdy podgrzewa sobie swoją porcję w aparacie w miłym towarzystwie. Do dania podajemy tradycyjnie kieliszek wina. </p>",
+            "author": {
+                "name": "K"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-27T11:29:23+01:00",
+            "date_modified": "2022-02-27T11:29:23+01:00"
+        },
+        {
             "id": "https://zyciewefrancji.pl/les-enfoires.html",
             "url": "https://zyciewefrancji.pl/les-enfoires.html",
             "title": "Les Enfoirés/ Gnojki",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2022-02-15T10:47:50+01:00",
             "date_modified": "2022-02-19T21:10:51+01:00"
-        },
-        {
-            "id": "https://zyciewefrancji.pl/vin-en-canette.html",
-            "url": "https://zyciewefrancji.pl/vin-en-canette.html",
-            "title": "Wino w puszcze",
-            "summary": " Wino w puszcze? Czy ma szansę podbić serca Francuzów? Po zdobyciu rynku anglosaskiego i azjatyckiego, wino w puszcze próbuje wejść na rynek francuski. Ma być propozycją na dystrybucję wina podczas pikników lub imprez w plenerze. Czy znajdzie swoje miejsce w tradycyjnej pod tym względem&hellip;",
-            "content_html": "<p><img loading=\"lazy\" src=\"https://www.rayon-boissons.com/var/site/storage/images/_aliases/reference/7/1/2/1/4251217-1-fre-FR/Capture1.PNG\" data-is-external-image=\"true\"  alt=\"L&amp;#39;explosion du vin en canette / Vins et champagnes - Rayon Boissons\"></p>\n<p>Wino w puszcze? Czy ma szansę podbić serca Francuzów? Po zdobyciu rynku anglosaskiego i azjatyckiego, wino w puszcze próbuje wejść na rynek francuski. Ma być propozycją na dystrybucję wina podczas pikników lub imprez w plenerze.</p>\n<p>Czy znajdzie swoje miejsce w tradycyjnej pod tym względem Francji, czas pokaże...</p>",
-            "author": {
-                "name": "K"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-02-14T22:13:06+01:00",
-            "date_modified": "2022-02-14T22:13:06+01:00"
         }
     ]
 }

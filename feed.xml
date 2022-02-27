@@ -3,12 +3,33 @@
     <title>Życie We Francji</title>
     <link href="https://zyciewefrancji.pl/feed.xml" rel="self" />
     <link href="https://zyciewefrancji.pl" />
-    <updated>2022-02-26T22:05:24+01:00</updated>
+    <updated>2022-02-27T11:29:23+01:00</updated>
     <author>
         <name>K</name>
     </author>
     <id>https://zyciewefrancji.pl</id>
 
+    <entry>
+        <title>Raclette - danie na zimę</title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://zyciewefrancji.pl/raclette.html"/>
+        <id>https://zyciewefrancji.pl/raclette.html</id>
+
+        <updated>2022-02-27T11:29:23+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Gdy zima nadchodzi aparaty do przygotowania raclette masowo lądują na francuskich stołach. Na moim, muszę przyznać również :). Bardzo podoba mi się sposób jej przygotowania i podawania. Gotujemy ziemniaki najlepiej na parze i właściwie tyle samotnego przebywania w kuchni. Reszta odbywa się przy stole&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img loading="lazy" src="https://www.manigod.com/medias/images/prestataires/raclette-party-13162.jpg" data-is-external-image="true"  alt="Raclette party - © M. Sauvage"></p>
+<p>Gdy zima nadchodzi aparaty do przygotowania <a href="https://pl.wikipedia.org/wiki/Raclette">raclette </a>masowo lądują na francuskich stołach. Na moim, muszę przyznać również :). Bardzo podoba mi się sposób jej przygotowania i podawania. Gotujemy ziemniaki najlepiej na parze i właściwie tyle samotnego przebywania w kuchni. Reszta odbywa się przy stole wokół emanującego przyjemne ciepło aparatu do raclette. Podajemy pikle, wędliny i oczywiście sery do raclette i każdy podgrzewa sobie swoją porcję w aparacie w miłym towarzystwie. Do dania podajemy tradycyjnie kieliszek wina. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Les Enfoirés/ Gnojki</title>
         <author>
@@ -199,28 +220,6 @@
         <content type="html">
             <![CDATA[
                 <p>W latach siedemdziesiątych została wprowadzona ograniczona liczba studentów medycyny (<em>numerus clausus</em>), które mogły przyjąć uczelnie. Miało to na celu ograniczyć nadmiar lekarzy w stosunku do ilości mieszkańców a w związku z tym wydatki państwa. Pomysł rozsądny w latach siedemdziesiątych, nie został dostosowany do zmian demograficznych, które miały miejsce przez pół wieku. Przepis ten wreszcie został przegłosowany w grudniu 2021 . Francja będzie musiała jednak poczekać jeszcze minimum dobre 10 lat, aby efekty zmian  zaczęły być odczuwalne dla pacjentów.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Wino w puszcze</title>
-        <author>
-            <name>K</name>
-        </author>
-        <link href="https://zyciewefrancji.pl/vin-en-canette.html"/>
-        <id>https://zyciewefrancji.pl/vin-en-canette.html</id>
-
-        <updated>2022-02-14T22:13:06+01:00</updated>
-            <summary>
-                <![CDATA[
-                     Wino w puszcze? Czy ma szansę podbić serca Francuzów? Po zdobyciu rynku anglosaskiego i azjatyckiego, wino w puszcze próbuje wejść na rynek francuski. Ma być propozycją na dystrybucję wina podczas pikników lub imprez w plenerze. Czy znajdzie swoje miejsce w tradycyjnej pod tym względem&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><img loading="lazy" src="https://www.rayon-boissons.com/var/site/storage/images/_aliases/reference/7/1/2/1/4251217-1-fre-FR/Capture1.PNG" data-is-external-image="true"  alt="L&amp;#39;explosion du vin en canette / Vins et champagnes - Rayon Boissons"></p>
-<p>Wino w puszcze? Czy ma szansę podbić serca Francuzów? Po zdobyciu rynku anglosaskiego i azjatyckiego, wino w puszcze próbuje wejść na rynek francuski. Ma być propozycją na dystrybucję wina podczas pikników lub imprez w plenerze.</p>
-<p>Czy znajdzie swoje miejsce w tradycyjnej pod tym względem Francji, czas pokaże...</p>
             ]]>
         </content>
     </entry>
