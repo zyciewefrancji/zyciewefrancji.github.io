@@ -3,12 +3,33 @@
     <title>Życie We Francji</title>
     <link href="https://zyciewefrancji.pl/feed.xml" rel="self" />
     <link href="https://zyciewefrancji.pl" />
-    <updated>2022-02-27T13:50:00+01:00</updated>
+    <updated>2022-02-27T15:24:31+01:00</updated>
     <author>
         <name>K</name>
     </author>
     <id>https://zyciewefrancji.pl</id>
 
+    <entry>
+        <title>Zwierzęta domowe</title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://zyciewefrancji.pl/zwierzeta-domowe.html"/>
+        <id>https://zyciewefrancji.pl/zwierzeta-domowe.html</id>
+
+        <updated>2022-02-27T15:24:31+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Dwa gospodarstwa na trzy we Francji mają zwierzę domowe co daje około 62 miliony zwierząt w domu. Francuzi lubią wydawać pieniądze na swoich małych przyjacieli dzięki temu powstają coraz to nowsze pomysły. Centra odnowy biologicznej dla psów i kotów, które pod fachowym wzrokiem weterynarza&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img loading="lazy" src="https://www.alforme.fr/img/section-472-1.jpg" data-is-external-image="true" ></p>
+<p>Dwa gospodarstwa na trzy we Francji mają zwierzę domowe co daje około 62 miliony zwierząt w domu. Francuzi lubią wydawać pieniądze na swoich małych przyjacieli dzięki temu powstają coraz to nowsze pomysły.  Centra odnowy biologicznej dla psów i kotów, które pod fachowym wzrokiem weterynarza poddane są zaleconym terapiom to coraz częstszy widok w pejzażu francuskim. Masaże z żelem mineralnym, kąpiele lecznicze , ćwiczenia na macie elektrycznej w wodzie, krioterapia, termoterapia, osteopatia i wszystkie inne leczenia, które spotkać możemy w tego typu placówkach dla ludzi. A może by zrobić w takim razie turnusy wspólne dla zwierząt i ich właścicieli?</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Paryż, miejscem atrakcyjnym dla kogo?</title>
         <author>
@@ -199,27 +220,6 @@
         <content type="html">
             <![CDATA[
                 <p>Według statystyk z 2021 średni wiek kobiet zawierających heteroseksualny związek małżeński we Francji to 36,6 lat, a 37,2 dla dla homoseksualnego związku małżeńskiego. Dla mężczyzn to odpowiednio 39,1 i 44 lata. Coraz częściej dzieci uczestniczą w ślubie rodziców. </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ach księżniczką być</title>
-        <author>
-            <name>K</name>
-        </author>
-        <link href="https://zyciewefrancji.pl/jak-zostac-ksiezniczka.html"/>
-        <id>https://zyciewefrancji.pl/jak-zostac-ksiezniczka.html</id>
-
-        <updated>2022-02-15T20:09:27+01:00</updated>
-            <summary>
-                <![CDATA[
-                     Zostać księżniczką, chociażby na 8 kilometrów! Bieg księżniczek organizowany co roku w Ogrodach Wersalskich przyciąga wiele fantazyjnie ubranych dam.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><img loading="lazy" src="https://www.nordictrackrunning-chateaudeversailles.com/img/courses/princesse1.jpg" data-is-external-image="true" ></p>
-<p>Zostać księżniczką, chociażby na 8 kilometrów!  Bieg księżniczek organizowany co roku  w Ogrodach Wersalskich przyciąga wiele fantazyjnie ubranych dam.</p>
             ]]>
         </content>
     </entry>

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://zyciewefrancji.pl/zwierzeta-domowe.html",
+            "url": "https://zyciewefrancji.pl/zwierzeta-domowe.html",
+            "title": "Zwierzęta domowe",
+            "summary": " Dwa gospodarstwa na trzy we Francji mają zwierzę domowe co daje około 62 miliony zwierząt w domu. Francuzi lubią wydawać pieniądze na swoich małych przyjacieli dzięki temu powstają coraz to nowsze pomysły. Centra odnowy biologicznej dla psów i kotów, które pod fachowym wzrokiem weterynarza&hellip;",
+            "content_html": "<p><img loading=\"lazy\" src=\"https://www.alforme.fr/img/section-472-1.jpg\" data-is-external-image=\"true\" ></p>\n<p>Dwa gospodarstwa na trzy we Francji mają zwierzę domowe co daje około 62 miliony zwierząt w domu. Francuzi lubią wydawać pieniądze na swoich małych przyjacieli dzięki temu powstają coraz to nowsze pomysły.  Centra odnowy biologicznej dla psów i kotów, które pod fachowym wzrokiem weterynarza poddane są zaleconym terapiom to coraz częstszy widok w pejzażu francuskim. Masaże z żelem mineralnym, kąpiele lecznicze , ćwiczenia na macie elektrycznej w wodzie, krioterapia, termoterapia, osteopatia i wszystkie inne leczenia, które spotkać możemy w tego typu placówkach dla ludzi. A może by zrobić w takim razie turnusy wspólne dla zwierząt i ich właścicieli?</p>",
+            "author": {
+                "name": "K"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-27T15:24:31+01:00",
+            "date_modified": "2022-02-27T15:24:31+01:00"
+        },
+        {
             "id": "https://zyciewefrancji.pl/paryz-miejscem-atrakcyjnym-dla-kogo.html",
             "url": "https://zyciewefrancji.pl/paryz-miejscem-atrakcyjnym-dla-kogo.html",
             "title": "Paryż, miejscem atrakcyjnym dla kogo?",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2022-02-16T23:26:03+01:00",
             "date_modified": "2022-02-16T23:27:55+01:00"
-        },
-        {
-            "id": "https://zyciewefrancji.pl/jak-zostac-ksiezniczka.html",
-            "url": "https://zyciewefrancji.pl/jak-zostac-ksiezniczka.html",
-            "title": "Ach księżniczką być",
-            "summary": " Zostać księżniczką, chociażby na 8 kilometrów! Bieg księżniczek organizowany co roku w Ogrodach Wersalskich przyciąga wiele fantazyjnie ubranych dam.",
-            "content_html": "<p><img loading=\"lazy\" src=\"https://www.nordictrackrunning-chateaudeversailles.com/img/courses/princesse1.jpg\" data-is-external-image=\"true\" ></p>\n<p>Zostać księżniczką, chociażby na 8 kilometrów!  Bieg księżniczek organizowany co roku  w Ogrodach Wersalskich przyciąga wiele fantazyjnie ubranych dam.</p>",
-            "author": {
-                "name": "K"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-02-15T20:09:27+01:00",
-            "date_modified": "2022-02-15T20:09:27+01:00"
         }
     ]
 }
