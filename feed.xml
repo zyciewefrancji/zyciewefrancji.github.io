@@ -3,12 +3,35 @@
     <title>Życie We Francji</title>
     <link href="https://zyciewefrancji.pl/feed.xml" rel="self" />
     <link href="https://zyciewefrancji.pl" />
-    <updated>2022-03-03T16:27:33+01:00</updated>
+    <updated>2022-03-04T18:02:20+01:00</updated>
     <author>
         <name>K</name>
     </author>
     <id>https://zyciewefrancji.pl</id>
 
+    <entry>
+        <title>Rolnictwo na paryskich dachach</title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://zyciewefrancji.pl/rolnictwo-na-paryskich-dachach.html"/>
+        <id>https://zyciewefrancji.pl/rolnictwo-na-paryskich-dachach.html</id>
+
+        <updated>2022-03-04T18:02:20+01:00</updated>
+            <summary>
+                <![CDATA[
+                     źródło Na paryskich dachach rozwija się rolnictwo miejskie. Powstają ogrody, które sprzedają swoje warzywa i owoce, szefom pobliskich restauracji. Na dachu słynnej Galerii Lafayette w 2015 roku powstało pierwsze tego typu miejskie gospodarstwo rolnicze. Dzięki niemu i wielu innym podobnym inicjatywom lokalne restauracje mogą&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image" ><img loading="lazy" src="https://www.parisselectbook.com/wp-content/uploads/2018/07/thumbnail_Haussmann-toit-sous-les-fraises-c-Myr-Muratet-2.jpg" data-is-external-image="true"  alt="https://www.parisselectbook.com/2018/07/18/connaissez-vous-le-jardin-en-rooftop-des-galeries-lafayette-haussmann/">
+<figcaption ><em><a href="https://www.parisselectbook.com/2018/07/18/connaissez-vous-le-jardin-en-rooftop-des-galeries-lafayette-haussmann/">źródło</a></em></figcaption>
+</figure>
+<p>Na paryskich dachach rozwija się rolnictwo miejskie. Powstają ogrody, które sprzedają swoje warzywa i owoce, szefom pobliskich restauracji. Na dachu słynnej Galerii Lafayette w 2015 roku powstało pierwsze tego typu miejskie gospodarstwo rolnicze. Dzięki niemu i wielu innym podobnym inicjatywom lokalne restauracje mogą zaopatrzyć się w owoce, warzywa, zioła, kwiaty hodowane w sposób ekologiczny, a ponadto dostarczane  ekologicznie w lokalnym obiegu. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Syndrom paryski</title>
         <author>
@@ -200,26 +223,6 @@
             <![CDATA[
                 <p><img loading="lazy" src="https://i0.wp.com/www.3bikes.fr/wp-content/uploads/2020/02/2020-velomaritime-itineraire-ouv-1-695x400-1.jpg?w=695&amp;ssl=1" data-is-external-image="true" ></p>
 <p>Dla miłośników wycieczek rowerowych polecam trasę rowerową wzdłuż oceanu Atlantyckiego. Świetnie zorganizowana trasa rowerowa z dużą ilością kempingów i hoteli, oraz z punktami napraw rowerów. Istnieje również wersja bardziej ekskluzywna organizowana przez biura podróży gdzie bagaże przewożone są z hotelu do hotelu.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Strajki- francuski sport narodowy</title>
-        <author>
-            <name>K</name>
-        </author>
-        <link href="https://zyciewefrancji.pl/strajki-francuski-sport-narodowy.html"/>
-        <id>https://zyciewefrancji.pl/strajki-francuski-sport-narodowy.html</id>
-
-        <updated>2022-02-18T15:49:43+01:00</updated>
-            <summary>
-                <![CDATA[
-                     W ten weekend zaczynają się ferie zimowe w regionie paryskim. Miejskie i podmiejskie środki transportu, nie omieszkały przegapić takiej okazji i zorganizowały dzisiaj strajk komunikacji. Firmy i przedsiębiorstwa proszone są aby umożliwić swoim pracownikom telepracę a wyjeżdżającym dzisiaj na ferie dużo cierpliwości i pogodnego nastawienia&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p> W ten weekend zaczynają się ferie zimowe w regionie paryskim. Miejskie i podmiejskie środki transportu, nie omieszkały przegapić takiej okazji i zorganizowały dzisiaj strajk komunikacji. Firmy i przedsiębiorstwa proszone są aby umożliwić swoim pracownikom telepracę a wyjeżdżającym dzisiaj na ferie dużo cierpliwości i pogodnego nastawienia do życia... ;)</p>
             ]]>
         </content>
     </entry>
