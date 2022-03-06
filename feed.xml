@@ -3,12 +3,36 @@
     <title>Życie We Francji</title>
     <link href="https://zyciewefrancji.pl/feed.xml" rel="self" />
     <link href="https://zyciewefrancji.pl" />
-    <updated>2022-03-04T23:17:38+01:00</updated>
+    <updated>2022-03-06T16:27:59+01:00</updated>
     <author>
         <name>K</name>
     </author>
     <id>https://zyciewefrancji.pl</id>
 
+    <entry>
+        <title>Pomoc dla Ukrainy</title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://zyciewefrancji.pl/strazacy-francuscy.html"/>
+        <id>https://zyciewefrancji.pl/strazacy-francuscy.html</id>
+
+        <updated>2022-03-06T16:27:59+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Fresk ulicznego artysty Seth na murze w 13 dzielnicy Pomoc Polski dla Ukrainy jest nieopisana. Jako jeden z krajów graniczący z Ukrainą spektakularnie stajecie na wysokości zadania. Nie jesteście pozostawieni sami, Europa również się mobilizuje pomoc jest różnorodna. Dzisiaj chciałabym wspomnieć o zbiórkach artykułów&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image" ><img loading="lazy" src="https://www.pariszigzag.fr/wp-content/uploads/2022/03/FB_IMG_1646209660414.jpg" data-is-external-image="true" >
+<figcaption ><a href="https://www.pariszigzag.fr/paris-au-quotidien/une-superbe-fresque-en-hommage-a-lukraine-orne-les-murs-de-paris">Fresk ulicznego artysty Seth na murze w 13 dzielnicy</a></figcaption>
+</figure>
+<p>Pomoc Polski dla Ukrainy jest nieopisana. Jako jeden z krajów graniczący z Ukrainą spektakularnie stajecie na wysokości zadania.</p>
+<p>Nie jesteście pozostawieni sami, Europa również się mobilizuje pomoc jest różnorodna. Dzisiaj chciałabym wspomnieć o  zbiórkach artykułów pierwszej potrzeby, leków, środków opatrunkowych organizowany przez strażaków francuskich. Liczne ciężarówki nieustannie wyruszają na granice Ukrainy z Polską lub Mołdawią.  Organizacja charytatywna <a href="https://pl.wikipedia.org/wiki/Emmaus_(organizacja)">Emmaüs</a> przeznaczyła pieniądze ze swoich sprzedaży na pomoc dla Ukrainy. Podobnie harcerze organizują zbiórki darów i pieniędzy. Wczoraj pojawiła się strona internetowa : https://solidarite-accueil-refugies-ukrainiens.fr/, napisana przez informatyka francuskiego mająca na celu skontaktować  ze sobą osoby które chcą udzielić schronienia u siebie z osobami tego potrzebującymi. Jako inicjatywa indywidualna na razie strona jest napisana tylko w języku francuskim, ale jej rozwinięcie i przetłumaczenie na ukraiński jest przewidziane. Podobnie ciągle rozwijająca się strona  rządowa: https://parrainage.refugies.info/ ma na celu koordynowanie informacji między potrzebującymi i tymi którzy w pomoc dla Ukrainy chcą się włączyć. Urzędy miast zbierają informacje osób chętnych do przyjęcia tymczasowego uchodźców. Można zadeklarować ilość osób, jakimi warunkami gościny dysponujemy oraz określić termin do którego możemy jej udzielić.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rolnictwo na paryskich dachach</title>
         <author>
@@ -202,27 +226,6 @@
             <![CDATA[
                 <p><img loading="lazy" src="https://acces-ce.fr/2056-large_default/salon-international-de-l-agriculture.jpg" data-is-external-image="true"  alt="12,00€ Tarif Billet entrée Salon International de l&amp;#39;Agriculture moins cher"></p>
 <p>Co roku odbywa się w Paryżu pod koniec lutego Salon Rolniczy, którego początki sięgają XIX wieku. Tradycyjnie otwierany jest on przez prezydenta Francji, który przy okazji ogląda i degustuje prezentowane produkty. Ekspozycje rolnicze przyciągają setki tysięcy obserwatorów (przeciętnie ponad 600 000), którzy grzecznie stoją w ogromnych kolejkach po bilet . W tym roku po dwóch latach przerwy (salon rolniczy został odwołany w 2021 roku ze względu na pandemię koronawirusa) oficjalne otwarcie  odbędzie się 26 lutego.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Vélomaritime/ Wzdłuż oceanu na rowerze</title>
-        <author>
-            <name>K</name>
-        </author>
-        <link href="https://zyciewefrancji.pl/velomaritime-wzdluz-oceanu-na-rowerze.html"/>
-        <id>https://zyciewefrancji.pl/velomaritime-wzdluz-oceanu-na-rowerze.html</id>
-
-        <updated>2022-02-19T21:55:26+01:00</updated>
-            <summary>
-                <![CDATA[
-                     Dla miłośników wycieczek rowerowych polecam trasę rowerową wzdłuż oceanu Atlantyckiego. Świetnie zorganizowana trasa rowerowa z dużą ilością kempingów i hoteli, oraz z punktami napraw rowerów. Istnieje również wersja bardziej ekskluzywna organizowana przez biura podróży gdzie bagaże przewożone są z hotelu do hotelu.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><img loading="lazy" src="https://i0.wp.com/www.3bikes.fr/wp-content/uploads/2020/02/2020-velomaritime-itineraire-ouv-1-695x400-1.jpg?w=695&amp;ssl=1" data-is-external-image="true" ></p>
-<p>Dla miłośników wycieczek rowerowych polecam trasę rowerową wzdłuż oceanu Atlantyckiego. Świetnie zorganizowana trasa rowerowa z dużą ilością kempingów i hoteli, oraz z punktami napraw rowerów. Istnieje również wersja bardziej ekskluzywna organizowana przez biura podróży gdzie bagaże przewożone są z hotelu do hotelu.</p>
             ]]>
         </content>
     </entry>
