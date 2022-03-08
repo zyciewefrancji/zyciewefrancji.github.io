@@ -3,12 +3,33 @@
     <title>Życie We Francji</title>
     <link href="https://zyciewefrancji.pl/feed.xml" rel="self" />
     <link href="https://zyciewefrancji.pl" />
-    <updated>2022-03-06T21:15:31+01:00</updated>
+    <updated>2022-03-08T15:02:54+01:00</updated>
     <author>
         <name>K</name>
     </author>
     <id>https://zyciewefrancji.pl</id>
 
+    <entry>
+        <title>Dzień Kobiet </title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://zyciewefrancji.pl/dzien-kobiet.html"/>
+        <id>https://zyciewefrancji.pl/dzien-kobiet.html</id>
+
+        <updated>2022-03-08T15:02:54+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Dzień Kobiet we Francji został oficjalnie inaugurowany w 1982 roku przez François Mitterrand i stał się Międzynarodowym Dniem Praw Kobiet. Dzień ten jest okazją dla różnych stowarzyszeń kobiecych do podkreślenia sfer życia gdzie kobiety są nadal dyskryminowane (różnice w zarobkach między kobietą a mężczyzną na&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://zyciewefrancji.pl/media/posts/33/1136_femmes_dessin.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://zyciewefrancji.pl/media/posts/33/responsive/1136_femmes_dessin-xs.jpg 300w ,https://zyciewefrancji.pl/media/posts/33/responsive/1136_femmes_dessin-sm.jpg 480w ,https://zyciewefrancji.pl/media/posts/33/responsive/1136_femmes_dessin-md.jpg 768w ,https://zyciewefrancji.pl/media/posts/33/responsive/1136_femmes_dessin-lg.jpg 1024w ,https://zyciewefrancji.pl/media/posts/33/responsive/1136_femmes_dessin-xl.jpg 1360w ,https://zyciewefrancji.pl/media/posts/33/responsive/1136_femmes_dessin-2xl.jpg 1600w"  alt="źródło" width="1136" height="1133"></figure>Dzień Kobiet we Francji został oficjalnie inaugurowany w 1982 roku przez François Mitterrand i stał się Międzynarodowym Dniem Praw Kobiet.</p>
+<p>Dzień ten jest okazją dla różnych stowarzyszeń kobiecych do podkreślenia sfer życia gdzie kobiety są nadal dyskryminowane (różnice w zarobkach między kobietą a mężczyzną na tym samym stanowisku, dostęp do niektórych stanowisk pracy, dyskryminacja kobiet na rynku pracy ze względu na wiek itp.)  W całej Francji organizowane są liczne manifestacje, marsze, strajki kobiet. Nie ma tradycji oferowania kwiatów kobietom, o ile kwiaty są zawsze mile widziane to w tym dniu mogą zostać potraktowane jako przejaw seksizmu.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pomoc dla Ukrainy</title>
         <author>
@@ -205,27 +226,6 @@
                 <p><img loading="lazy" src="https://i.la-croix.com/350x250/smart/2018/03/01/1200917464/233-725-mariages-heterosexuels-homosexuels-celebres-2016_0.jpg" data-is-external-image="true"  alt="En France, le mariage continue de reculer"></p>
 <p>Sale w wielu domach weselnych zarezerwowane są już do końca roku 2022! Wiele par które chcą sobie powiedzieć "tak" w tym roku będzie musiało poczekać. Najpierw pandemia a teraz brak miejsc wolnych utrudnia życie narzeczonym.</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Salon international de l&#x27;Agriculture/ Międzynarodowy Salon Rolniczy</title>
-        <author>
-            <name>K</name>
-        </author>
-        <link href="https://zyciewefrancji.pl/salon-international-de-lagriculture-miedzynarodowy-salon-rolniczy.html"/>
-        <id>https://zyciewefrancji.pl/salon-international-de-lagriculture-miedzynarodowy-salon-rolniczy.html</id>
-
-        <updated>2022-02-21T16:03:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                     Co roku odbywa się w Paryżu pod koniec lutego Salon Rolniczy, którego początki sięgają XIX wieku. Tradycyjnie otwierany jest on przez prezydenta Francji, który przy okazji ogląda i degustuje prezentowane produkty. Ekspozycje rolnicze przyciągają setki tysięcy obserwatorów (przeciętnie ponad 600 000), którzy grzecznie stoją&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><img loading="lazy" src="https://acces-ce.fr/2056-large_default/salon-international-de-l-agriculture.jpg" data-is-external-image="true"  alt="12,00€ Tarif Billet entrée Salon International de l&amp;#39;Agriculture moins cher"></p>
-<p>Co roku odbywa się w Paryżu pod koniec lutego Salon Rolniczy, którego początki sięgają XIX wieku. Tradycyjnie otwierany jest on przez prezydenta Francji, który przy okazji ogląda i degustuje prezentowane produkty. Ekspozycje rolnicze przyciągają setki tysięcy obserwatorów (przeciętnie ponad 600 000), którzy grzecznie stoją w ogromnych kolejkach po bilet . W tym roku po dwóch latach przerwy (salon rolniczy został odwołany w 2021 roku ze względu na pandemię koronawirusa) oficjalne otwarcie  odbędzie się 26 lutego.</p>
             ]]>
         </content>
     </entry>
