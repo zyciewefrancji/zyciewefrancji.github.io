@@ -3,12 +3,39 @@
     <title>Życie We Francji</title>
     <link href="https://zyciewefrancji.pl/feed.xml" rel="self" />
     <link href="https://zyciewefrancji.pl" />
-    <updated>2022-04-12T23:35:04+02:00</updated>
+    <updated>2022-04-13T16:26:32+02:00</updated>
     <author>
         <name>K</name>
     </author>
     <id>https://zyciewefrancji.pl</id>
 
+    <entry>
+        <title>Lyon miastem bez światła</title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://zyciewefrancji.pl/lyon-miastem-bez-swiatla.html"/>
+        <id>https://zyciewefrancji.pl/lyon-miastem-bez-swiatla.html</id>
+
+        <updated>2022-04-13T16:26:32+02:00</updated>
+            <summary>
+                <![CDATA[
+                     Lyon wprowadził program kontroli oświetlenia nocnego. Ma on na celu zmniejszenie zanieczyszczenia świetlnego, które zaburza naturalny rytm biologiczny ludzi i zwierząt. Przyczynia się on także do zmniejszenia zużycia energii elektrycznej i w konsekwencji zmniejszonej emisji dwutlenku węgla do atmosfery. W 2014 roku został zainicjowany&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Lyon wprowadził program kontroli oświetlenia nocnego. Ma on na celu zmniejszenie zanieczyszczenia świetlnego, które zaburza naturalny rytm biologiczny ludzi i zwierząt. Przyczynia się on także do zmniejszenia zużycia energii elektrycznej i w konsekwencji zmniejszonej emisji dwutlenku węgla do atmosfery. W 2014 roku został zainicjowany program "oświetlenia inteligentnego" w godzinach nocnych między 22h30 a 4h30. W tym czasie zainstalowane czujniki ruchu sterują włączaniem światła ulicznego. W pozostałym czasie działa oświetlenie stonowane lub całkiem jest wygaszone. Dzięki wprowadzonym zmianom dzielnice uzyskały obniżki kosztów energii o 90% w stosunku do stosowanego na tym obszarze oświetlenia standardowego w tych godzinach. Zachęcające wyniki eksperymentu ośmieliły zarząd miasta do rozszerzenia tego typu oświetlenia sterowanego poza ścisłym centrum i obszarami miasta o zwiększonej aktywności całodobowej.&nbsp;
+  </p>
+
+  <p>
+    Oczywiście nie jest to rozwiązanie nowe już w 1972 roku Tucson, miasto w Arizonie jako pierwsze na świecie zastosowało tego typu rozwiązanie, ale w ramach aktualnej sytuacji politycznej,może warto je bardziej upowszechnić.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pâques / Wielkanoc</title>
         <author>
@@ -287,27 +314,6 @@
 <p>Przed ambasada ukraińską spontanicznie zgłosiła się grupka ochotników francuskich, chcących dołączyć do utworzonych przez Zeleńskiego Międzynarodowych Legionów na Ukrainie. Ochotnicy francuscy informują się również na grupach społecznościowych (<a href="https://www.facebook.com/groups/3291639454399936">https://www.facebook.com/groups/3291639454399936</a> ) jakie formalności trzeba dokonać aby przyłączyć się do armii ukraińskiej, gdzie po 3 dniach szkolenia dołączają do walk.</p>
 <p><img loading="lazy" src="https://media.sudouest.fr/9450757/1000x500/illustration-volontaires-france-ukraine.jpg?v=1646214626" data-is-external-image="true" ></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Zwierzęta domowe</title>
-        <author>
-            <name>K</name>
-        </author>
-        <link href="https://zyciewefrancji.pl/zwierzeta-domowe.html"/>
-        <id>https://zyciewefrancji.pl/zwierzeta-domowe.html</id>
-
-        <updated>2022-02-27T15:24:31+01:00</updated>
-            <summary>
-                <![CDATA[
-                     Dwa gospodarstwa na trzy we Francji mają zwierzę domowe co daje około 62 miliony zwierząt w domu. Francuzi lubią wydawać pieniądze na swoich małych przyjacieli dzięki temu powstają coraz to nowsze pomysły. Centra odnowy biologicznej dla psów i kotów, które pod fachowym wzrokiem weterynarza&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><img loading="lazy" src="https://www.alforme.fr/img/section-472-1.jpg" data-is-external-image="true" ></p>
-<p>Dwa gospodarstwa na trzy we Francji mają zwierzę domowe co daje około 62 miliony zwierząt w domu. Francuzi lubią wydawać pieniądze na swoich małych przyjacieli dzięki temu powstają coraz to nowsze pomysły.  Centra odnowy biologicznej dla psów i kotów, które pod fachowym wzrokiem weterynarza poddane są zaleconym terapiom to coraz częstszy widok w pejzażu francuskim. Masaże z żelem mineralnym, kąpiele lecznicze , ćwiczenia na macie elektrycznej w wodzie, krioterapia, termoterapia, osteopatia i wszystkie inne leczenia, które spotkać możemy w tego typu placówkach dla ludzi. A może by zrobić w takim razie turnusy wspólne dla zwierząt i ich właścicieli?</p>
             ]]>
         </content>
     </entry>
